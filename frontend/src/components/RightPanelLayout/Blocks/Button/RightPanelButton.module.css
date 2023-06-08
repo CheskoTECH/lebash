@@ -1,0 +1,47 @@
+.actionButton {
+  border: 1px solid #fff;
+  width: max-content;
+  padding: 15px 0px;
+  text-align: center;
+  background-color: transparent;
+  color: #fff;
+  cursor: pointer;
+}
+
+.large {
+  width: 260px;
+}
+
+.small {
+  width: 150px;
+}
+
+.full {
+  width: 100%;
+}
+
+.success {
+  background-color: #3f7118;
+  transition: all 0.3s;
+  border: none;
+}
+
+.success:hover {
+  background-color: #346111;
+}
+
+.disabled {
+  background-color: #373740;
+  border: none;
+  cursor: not-allowed;
+}
+
+.default {
+  transition: all 0.4s;
+}
+
+.default:hover {
+  background-color: #fff;
+  color: #000;
+}
+/* 150 260 */

@@ -1,0 +1,520 @@
+ls
+ls
+ls
+ls
+ls
+mkdir test
+ls
+ls
+echo hello world
+ls
+ls
+
+
+
+
+ls
+ls
+ls
+
+
+
+ls
+ls
+
+ls
+
+ls
+ls
+ls
+l
+
+ls
+ls
+
+ls
+
+ls
+
+
+ls
+
+ls
+ls
+ls
+
+ls
+ls
+
+ls
+
+ls
+
+ls
+
+
+
+ls
+
+ls
+ls
+
+ls
+mkdir hello
+echo hello
+xfxfd
+
+echo hello world
+l
+ls
+echo
+
+ls
+
+ls
+echo
+echo hello world
+
+m
+,
+
+ls
+ll
+ls
+ls
+mkdir hello
+mkdir hello
+echo
+echo
+echo
+echo hello world
+ls
+mkdir hello
+echo hello world
+echo
+e
+e
+ls
+e
+
+
+ls
+ls
+echo hello wrold
+eho wcho
+echo hello world
+
+ls
+echo
+echo ls
+
+ls
+mkdir hello
+echo
+echi
+echo
+echo
+echo
+echui
+echo hello
+echo
+ls
+ls
+ls -a
+echo
+ls
+ks
+ls
+echo
+ls
+ls
+
+ls
+ls
+ls
+ls
+echo
+ls
+l
+
+ls
+ls
+echo
+echo hello wirld
+
+ls
+echo
+echo hello world
+ls
+mkdir test
+ls -a
+show
+daalsdmasl
+test1
+test2
+
+test2
+wow
+prd
+pwd
+user
+man test
+whatis man
+ls
+ls -a
+mkdir new_dir
+[A2
+[A[A
+echo lebash
+ls
+echo
+echo hello world
+ls
+echo -e "Linux \bopen"
+echo -e "Linux \nopen"
+echo -e "\033[35mLinux \033[34mopen"
+
+
+ls
+[24~
+
+echo Hello Lebash
+echo Hello LeBash
+echo -e "Linux is an operating system"
+echo -e "Linux \bis \ban \boperating \bsystem"
+echo -e "Linux \nis \nan \noperationg \system[D[D[D[D[D[Dn[C[C[C[C[C[C"
+echo -e "Linux \nis \nan \noperating \nsystem"
+echo Hello lebash
+echo Hello LeBash
+echo Hello LeBash
+echo -e "Linux \bis \ban \boperating \bsysytem"
+echo -e "Hello \bLinux"
+
+echo Hello LeBash
+echo -e "Hello \bLinux"
+
+echo Hello LeBash
+echo Hello LeBash
+echo Hello LeBash
+echo Hello LeBash
+echi
+echo
+echo
+echo
+echo
+echo
+echo
+echo
+
+
+echo
+echo
+echo
+echo -e "Hello \bLinux"
+echo -e "Hello \nLinux"
+
+echo
+echo -e "Hello \bLinux"
+echo
+echo -e "Hello \nLinux"
+echo
+echo -e "Hello \bLinux"
+echo -e "Hello \nLinux"
+echo
+echo -e "Hello \bLinux"
+echo -e "Hello \nLinux"
+усрщ
+echo
+echo -e "Hello \bLinux"
+echo -e "Hello \nLinux"
+у
+echo test
+echo test
+echo test
+echo
+echo -e "Hello \bLinux"
+echo -e "Hello \nLinux"
+echi 1
+[A[D[o
+усрщ
+echo
+echo -e "Hello \bLinux"
+echo -e "Hello \nLinux"
+ec
+echo[D[C[D[D[C[C[D[D[D[D[C[C[C[C[D[C[D[D[C[C
+[D
+echo[Df
+
+[A[3~
+
+echo
+ech[Df
+
+echo[D
+echo
+echo[D[C[D[D
+echo[D
+echo[D[D[C[D[D[D[C[C[C[C[D[D[D[D[C[C[C[C[D[D[D[D[C[C[C[C
+echo
+echo
+echo
+echo HelloLeBash
+echo Hello LeBash
+echo Hello LeBash
+
+echo Hello LeBash
+echo -e "Hello \bLinux"
+echo -e "Hello \nLinux"
+echo Hello LeBash
+echo -e "Hello \bLinux"
+echo -e "Hello \nLinux"
+[24~
+
+echo Hello LeBash
+echo -e "Hello \bLinux"
+echo -e "Hello \nLinux"
+echo Hello LeBash
+echo -e "Hello \bLinux"
+echo -e "Hello \nLinux"
+echo Hello LeBash
+asdk
+ls
+ls
+ls
+cd new	[25;12Rls[26;12Rcd ..
+;s
+ls
+cd new
+cd new	[2;12Recho Hello LeBash[4;12R
+
+
+ды
+ls
+
+ls
+echo Hello LeBash
+echo -e "Hello \bLinux"
+echo -e "Hello \nLinux"
+ls
+touch test.txt
+mc test	.	
+mcedit test	.t	
+help
+sudo apt-get update
+[A
+clear
+ls
+apt-get update
+
+esho Hello LeBash
+cho Hello LeBash
+echo Hello LeBash
+echo -e "Hello \bLinux"
+echo -e "Hello \nLinux"
+echo
+cho Hello LeBash
+echo
+dsda[D[D[C[D[C[C[C[A[A[A[A[A[B
+echo Hello LeBash
+[1;5echo Hello LeBash
+echo Hello LeBash
+echo -e "Hello \bLinux"
+echo -e "Hello \nLinux[1;2D"
+[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+[24~
+
+
+echo Hello LeBash
+echo -e "Hello \bLinux"
+echo -e "Hello \nLinux"
+w
+whoami
+who
+last
+users
+logout
+date
+date -u
+cal
+cal -m 5
+[5 2023
+man cal
+arch
+uptime
+apropos uptime[3~
+last
+whp
+who
+w
+clear
+uptime
+uptime -p
+uptime -s
+uptime -p
+cal
+cal 2023
+
+echo Hello LeBash
+echo -e "Hello \bLinux"
+echo -e "Hello \nLinux"
+[24~
+echo Hello LeBash
+echo -e "Hello \bLinux"
+echo -e "Hello \bLinux"
+echo -e "Hello \nLinux"
+whoami
+echo Hello LeBash
+echo Hello Linux
+echo -e "Hello \bLinux"
+echo -e "Hello \nLinux"
+whoami
+uptime
+uptime -s
+arch
+pwd
+date
+cal
+cal 2023
+cal -m 5 2023
+
+echo Hello Linux
+echo -e "Hello \bLinux"
+echo -e "Hello \nLinux"
+echo 
+echo Hello Linux
+echo -e "Hello \bLinux"
+echo -e "Hello \nLinux"
+whoami
+uptime
+uptime -s
+arch
+pwd
+echo Hello Linux
+echo -e "Hello \bLinux"
+echo -e "Hello \nLinux"
+whoami
+uptime
+arch
+pwd
+clear
+date
+cal
+cal 2023
+cal -m 5 2023
+
+echo Hello Linux
+echo -e "Hello \bLinux"
+echi -e "Hello \nLinux"
+echo -e "Hello \nLinux"
+whoami
+uptime
+arch
+pwd
+clear
+date
+cal
+cal 2023
+cal -m 5 2023
+
+echo Hello Linux
+[A[D[D[D[1;[A[B[b
+echo[D[D[C[D[C[C
+echo Hello Linux
+echo -e "Hello [3~\bLinux"
+echo -e "Hello \nLinux"
+[Cecho[D[D[D[D[C[C[Cec
+ls
+ls
+ls[D[C[D[C[D[C[D[C[D[D[C[C[D[D[C[C[D[D[C[C[D[C[D[C[D[C[D[D[C[C[C[C[C[D[Css[D
+echo Hello Linux
+echo -e "Hello \bLinux"
+echo -e "Hello \nLinux"
+whoami
+uptime
+arch
+pwd
+clear
+date
+cal
+cal 2023
+cal -m 5 2023
+[24~
+echo Hello Lonux
+echo Hello Linux
+echo Hello Linux
+echo -e "Hello \bLinux"
+echo -e "Hello \nLinux"
+whoami
+uptime
+arch
+pwd
+clear
+date
+cal
+cal 2023
+cal -m 5 2023
+
+echo Hello Linux
+echo -e "Hello \bLinux"
+
+echo
+echo "Hello \nLinux"
+
+[A
+
+[A
+[A
+[A
+[A
+hello linuxbbecho 
+helo linuxbbb
+helo[D
+[A[Ds
+[A[Ds
+[A[D[D
+[A
+[A[A
+[A
+[A
+[A[D
+[A[D[D
+[A[D[D[D[D
+[A[D[D[C[C
+[A[D[D[D[D[D[C[C[C[C[C
+[A[D[D[D[D[D[D[C[C
+[A[D[D[D[D[D[C[C[C[C[C
+echo Hello Linux
+echo -e "Hello \bLinux"
+echo -e "Hello \nLinux"
+whoami
+uptimw
+uptime
+arch
+pwd
+clear
+date
+cal
+cal -m 2023
+cal -m 5 2023
+cal 2023
+clear
+
+
+
+ls
+
+
+
+llss
+
+ls
+find /
+ls
+ls
+
+
+
+lllsqwertyuiop[]=-0987654321asdfghjkl;'\`zxcvbnm,./aaaasdsdsdsfddsadasdasdasasdsaasdasdasdasdsadasdasasdsadasdasdsadsadasdasdsadsadasdasdasdasdadasdasdasdasdasdasdasdasdasdsadasdsaasdsadasasdasdasdasdasdasd
+
+
+lllsls

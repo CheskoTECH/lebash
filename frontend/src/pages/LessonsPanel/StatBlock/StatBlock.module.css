@@ -1,0 +1,24 @@
+.main {
+  border: 1px solid #fff;
+  width: 205px;
+  height: 110px;
+  position: relative;
+}
+
+.statTitle {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  width: 120px;
+  font-size: 16px;
+  line-height: 19px;
+}
+
+.numberText {
+  position: absolute;
+  right: 5px;
+  bottom: 0;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 48px;
+}

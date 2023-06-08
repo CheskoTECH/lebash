@@ -1,0 +1,19 @@
+.button {
+  width: 445px;
+  height: 60px;
+  color: #fff;
+  background-color: #3f7118;
+  border-radius: 10px;
+  cursor: pointer;
+  border: none;
+  transition: all 0.3s;
+  font-size: 20px;
+}
+
+.button:hover {
+  background-color: #488619;
+}
+
+.link {
+  text-decoration: none;
+}

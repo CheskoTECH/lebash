@@ -1,0 +1,36 @@
+.main {
+  height: 120px;
+  /* height: 100px; */
+  display: flex;
+  /* display: grid; */
+  /* grid-template-columns: 160px 1fr; */
+  justify-content: space-between;
+  align-items: center;
+  /* border: 1px solid red; */
+  /* overflow-y: auto; */
+}
+
+.links-wrapper {
+  display: flex;
+  align-self: center;
+  gap: 40px;
+  /* border: 1px solid red; */
+  /* margin: 0 auto; */
+}
+
+.link {
+  text-decoration: none;
+  color: #fff;
+  font-size: 18px;
+  transition: all 0.5s;
+  font-weight: 200;
+  cursor: pointer;
+}
+
+.link:hover {
+  text-decoration: underline;
+}
+
+.logo {
+  cursor: pointer;
+}

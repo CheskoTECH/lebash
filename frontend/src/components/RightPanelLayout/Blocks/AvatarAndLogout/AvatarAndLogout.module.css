@@ -1,0 +1,18 @@
+.profileSection {
+  height: 150px;
+  text-align: center;
+  /* height: 150px; */
+  position: relative;
+}
+
+.logout {
+  position: absolute;
+  right: 10px;
+  top: 25px;
+  cursor: pointer;
+}
+
+.username {
+  margin-top: 10px;
+  font-weight: 700;
+}

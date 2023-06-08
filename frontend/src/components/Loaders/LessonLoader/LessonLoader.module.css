@@ -1,0 +1,17 @@
+.main {
+  height: 100vh;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  background-color: #2a2c34;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.loader-text {
+  font-size: 32px;
+  font-weight: 200;
+}

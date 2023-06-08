@@ -1,0 +1,15 @@
+.main {
+  display: grid;
+  grid-template-columns: 1fr 500px;
+  height: 100vh;
+}
+
+.left-side {
+  background-color: #2a2c34;
+  color: #fff;
+  overflow: hidden;
+}
+
+.right-side {
+  background-color: #111118;
+}
